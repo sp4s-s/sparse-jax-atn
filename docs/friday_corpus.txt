@@ -1,0 +1,755 @@
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[TONY]: Dump the right gauntlet repulsor and vent the excess coolant into the ocean.
+[FRIDAY]: Scanning now, Boss... I've detected a 1.2% variance in the right gauntlet repulsor.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 700 Kelvin... 500 Kelvin.
+[FRIDAY]: Would you like me to prepare the Dum-E and U for your arrival? The lab is currently at 85% capacity for clutter.
+[FRIDAY]: Would you like me to prepare the cleaning droids for your arrival? The lab is currently at 75% capacity for clutter.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Plasma leakage detected in the flight stabilizers.
+[FRIDAY]: Boss, we have a situation. The life support is losing pressure. At this rate, the core will reach critical temperature in under fifteen seconds.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Thermal runaway detected in the flight stabilizers.
+[FRIDAY]: Scanning now, Boss... I've detected a 3.14% variance in the auxiliary thrusters.
+[FRIDAY]: However, if you initiate the 'Veronica', the draw will increase by several orders of magnitude.
+[FRIDAY]: Scanning now, Boss... I've detected a 2.5% variance in the chest node.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: Wakanda.
+[FRIDAY]: Course plotted. Estimated time of arrival: 4 minutes and 15 seconds.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it ten minutes ago based on your current blood sugar levels.
+[TONY]: Dump the right gauntlet repulsor and vent the excess ionized gas into the vacuum.
+[TONY]: Friday, run a full diagnostic on the arc reactor containment. I felt a slight shimmy during the last supersonic transition.
+[TONY]: That's what keeps life interesting, Friday. Set a course for the Wakanda.
+[FRIDAY]: Would you like me to prepare the Dum-E and U for your arrival? The lab is currently at 95% capacity for clutter.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[FRIDAY]: Scanning now, Boss... I've detected a 2.5% variance in the auxiliary thrusters.
+[TONY]: Can we compensate with the emergency thrusters or do I need to eject the core?
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it three minutes ago based on your current electrolyte levels.
+[FRIDAY]: Would you like me to prepare the Dum-E and U for your arrival? The lab is currently at 60% capacity for clutter.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Plasma leakage detected in the HUD interface.
+[FRIDAY]: I can reroute 5% of the auxiliary power to the auxiliary power cells.
+[FRIDAY]: However, if you initiate the 'Veronica', the draw will increase by several orders of magnitude.
+[FRIDAY]: Boss, we have a situation. The life support is losing pressure. At this rate, the core will reach critical temperature in under forty-five seconds.
+[FRIDAY]: The core temperature is holding at a steady 1,050 Kelvin. Energy consumption is currently at 92% of peak output.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 3,000 Kelvin... 2,200 Kelvin.
+[TONY]: Great. How's the plasma generator holding up? Give me a core stability index.
+[TONY]: Can we compensate with the redundant cooling systems or do I need to eject the core?
+[TONY]: Just order some sushi, Friday. Extra garlic sauce.
+[TONY]: Just order some sushi, Friday. Extra pickles.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: Wakanda.
+[TONY]: Just order some cheeseburgers, Friday. Extra spicy mayo.
+[TONY]: Can we compensate with the auxiliary power cells or do I need to initiate a reboot?
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 1,100 Kelvin... 900 Kelvin.
+[FRIDAY]: Course plotted. Estimated time of arrival: 2 minutes and 45 seconds.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: compound.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it two minutes ago based on your current cortisol levels.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 3,000 Kelvin... 2,200 Kelvin.
+[TONY]: Friday, run a full diagnostic on the flight stabilizers. I felt a slight vibration during the last supersonic transition.
+[FRIDAY]: Good morning, Boss. All Mark XLII systems are reporting sub-optimal performance.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[FRIDAY]: That should stabilize weapons lock for another 6 hours of mission time, though I recommend a full replacement once we return to the lab.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it four minutes ago based on your current hydration levels.
+[FRIDAY]: The core temperature is holding at a steady 1,050 Kelvin. Energy consumption is currently at 45% of peak output.
+[FRIDAY]: I can reroute 50% of the arc reactor buffer to the emergency thrusters.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: Helicarrier.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[TONY]: Just order some sushi, Friday. Extra sprinkles.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[FRIDAY]: I can reroute 40% of the life support reserves to the secondary stabilization grid.
+[TONY]: That's what keeps life interesting, Friday. Set a course for the tower.
+[TONY]: Can we compensate with the redundant cooling systems or do I need to abort the mission?
+[FRIDAY]: However, if you initiate the 'Lightning Strike', the draw will increase by several orders of magnitude.
+[FRIDAY]: I can reroute 12% of the auxiliary power to the redundant cooling systems.
+[TONY]: Great. How's the Arc Reactor holding up? Give me a efficiency rating.
+[FRIDAY]: Boss, we have a situation. The arc reactor containment is losing pressure. At this rate, the core will reach critical temperature in under sixty seconds.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it four minutes ago based on your current adrenaline levels.
+[TONY]: Just order some cheeseburgers, Friday. Extra pickles.
+[FRIDAY]: Scanning now, Boss... I've detected a 0.8% variance in the chest node.
+[FRIDAY]: Boss, we have a situation. The repulsor stabilization units is losing pressure. At this rate, the core will reach critical temperature in under forty-five seconds.
+[FRIDAY]: It appears the stutter was caused by a power surge wear in the induction coil.
+[FRIDAY]: That should stabilize flight for another 12 hours of mission time, though I recommend a full replacement once we return to the workshop.
+[FRIDAY]: Good morning, Boss. All Mark L systems are reporting nominal performance.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[TONY]: Just order some shawarma, Friday. Extra pickles.
+[FRIDAY]: The core temperature is holding at a steady 800 Kelvin. Energy consumption is currently at 85% of peak output.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 700 Kelvin... 500 Kelvin.
+[FRIDAY]: Course plotted. Estimated time of arrival: 4 minutes and 12 seconds.
+[TONY]: Can we compensate with the secondary stabilization grid or do I need to ground the suit?
+[FRIDAY]: Scanning now, Boss... I've detected a 0.8% variance in the right gauntlet repulsor.
+[FRIDAY]: Would you like me to prepare the repair bots for your arrival? The lab is currently at 99% capacity for clutter.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 2,000 Kelvin... 1,500 Kelvin.
+[FRIDAY]: Would you like me to prepare the Dum-E and U for your arrival? The lab is currently at 85% capacity for clutter.
+[FRIDAY]: I can reroute 5% of the auxiliary power to the secondary stabilization grid.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it three minutes ago based on your current electrolyte levels.
+[FRIDAY]: That should stabilize flight for another 2 hours of mission time, though I recommend a full replacement once we return to the compound.
+[TONY]: Great. How's the plasma generator holding up? Give me a efficiency rating.
+[FRIDAY]: I can reroute 40% of the repulsor reserves to the backup actuators.
+[FRIDAY]: Boss, we have a situation. The repulsor stabilization units is losing pressure. At this rate, the core will reach critical temperature in under forty-five seconds.
+[TONY]: Great. How's the chest node holding up? Give me a efficiency rating.
+[FRIDAY]: I can reroute 12% of the life support reserves to the backup actuators.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Plasma leakage detected in the primary cooling loop.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Micro-meteorite impact detected in the targeting grid.
+[TONY]: Dump the primary heat sink and vent the excess ionized gas into the vacuum.
+[FRIDAY]: It appears the shimmy was caused by a impact deformation in the induction coil.
+[FRIDAY]: Would you like me to prepare the medical units for your arrival? The lab is currently at 60% capacity for clutter.
+[TONY]: Can we compensate with the backup actuators or do I need to call in the Hulkbuster?
+[TONY]: That's what keeps life interesting, Friday. Set a course for the Helicarrier.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[FRIDAY]: Course plotted. Estimated time of arrival: 4 minutes and 0 seconds.
+[FRIDAY]: Would you like me to prepare the cleaning droids for your arrival? The lab is currently at 75% capacity for clutter.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: Malibu.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: tower.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[FRIDAY]: Good morning, Boss. All Mark LXXXV systems are reporting optimal performance.
+[FRIDAY]: Course plotted. Estimated time of arrival: 10 minutes and 0 seconds.
+[TONY]: Can we compensate with the redundant cooling systems or do I need to initiate a reboot?
+[FRIDAY]: Course plotted. Estimated time of arrival: 10 minutes and 0 seconds.
+[FRIDAY]: Would you like me to prepare the medical units for your arrival? The lab is currently at 85% capacity for clutter.
+[TONY]: Great. How's the Arc Reactor holding up? Give me a power-to-thermal ratio.
+[TONY]: Friday, run a full diagnostic on the life support. I felt a slight power dip during the last supersonic transition.
+[FRIDAY]: Good morning, Boss. All Mark XLII systems are reporting optimal performance.
+[TONY]: Can we compensate with the emergency thrusters or do I need to initiate a reboot?
+[FRIDAY]: It appears the stutter was caused by a power surge wear in the primary nozzle.
+[FRIDAY]: Good morning, Boss. All Mark LXXXV systems are reporting critical performance.
+[FRIDAY]: It appears the power dip was caused by a microscopic stress fracture in the containment manifold.
+[FRIDAY]: However, if you initiate the 'Silent Night', the draw will increase by several orders of magnitude.
+[FRIDAY]: That should stabilize communications for another 1.5 hours of mission time, though I recommend a full replacement once we return to the armory.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Plasma leakage detected in the targeting grid.
+[FRIDAY]: I can reroute 5% of the auxiliary power to the emergency thrusters.
+[FRIDAY]: I can reroute 50% of the weapon systems to the redundant cooling systems.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: tower.
+[FRIDAY]: Good morning, Boss. All Mark LXXXV systems are reporting sub-optimal performance.
+[FRIDAY]: That should stabilize communications for another 4 hours of mission time, though I recommend a full replacement once we return to the workshop.
+[TONY]: Can we compensate with the redundant cooling systems or do I need to call in the Hulkbuster?
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it four minutes ago based on your current hydration levels.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[FRIDAY]: The core temperature is holding at a steady 3,400 Kelvin. Energy consumption is currently at 12% of peak output.
+[FRIDAY]: Would you like me to prepare the Dum-E and U for your arrival? The lab is currently at 95% capacity for clutter.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 700 Kelvin... 500 Kelvin.
+[TONY]: Just order some shawarma, Friday. Extra garlic sauce.
+[FRIDAY]: Good morning, Boss. All Mark L systems are reporting stable performance.
+[FRIDAY]: That should stabilize weapons lock for another 2 hours of mission time, though I recommend a full replacement once we return to the workshop.
+[FRIDAY]: Good morning, Boss. All Mark LXXX systems are reporting critical performance.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 700 Kelvin... 500 Kelvin.
+[FRIDAY]: Course plotted. Estimated time of arrival: 2 minutes and 30 seconds.
+[TONY]: Great. How's the plasma generator holding up? Give me a energy output chart.
+[TONY]: Great. How's the chest node holding up? Give me a power-to-thermal ratio.
+[TONY]: Dump the right gauntlet repulsor and vent the excess coolant into the lower stratosphere.
+[TONY]: Just order some shawarma, Friday. Extra spicy mayo.
+[FRIDAY]: That should stabilize weapons lock for another 6 hours of mission time, though I recommend a full replacement once we return to the armory.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it five minutes ago based on your current hydration levels.
+[TONY]: That's what keeps life interesting, Friday. Set a course for the compound.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it three minutes ago based on your current electrolyte levels.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Structural breach detected in the primary cooling loop.
+[FRIDAY]: It appears the stutter was caused by a impact deformation in the containment manifold.
+[FRIDAY]: Course plotted. Estimated time of arrival: 2 minutes and 30 seconds.
+[TONY]: Just order some shawarma, Friday. Extra garlic sauce.
+[FRIDAY]: Scanning now, Boss... I've detected a 3.14% variance in the primary heat sink.
+[FRIDAY]: Scanning now, Boss... I've detected a 0.8% variance in the right gauntlet repulsor.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 3,000 Kelvin... 2,200 Kelvin.
+[TONY]: Just order some shawarma, Friday. Extra garlic sauce.
+[TONY]: Just order some sushi, Friday. Extra pickles.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Micro-meteorite impact detected in the repulsor stabilization units.
+[FRIDAY]: I can reroute 15% of the auxiliary power to the redundant cooling systems.
+[FRIDAY]: Good morning, Boss. All Mark XLIV systems are reporting critical performance.
+[TONY]: Great. How's the Arc Reactor holding up? Give me a energy output chart.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it ten minutes ago based on your current blood sugar levels.
+[FRIDAY]: The core temperature is holding at a steady 2,500 Kelvin. Energy consumption is currently at 12% of peak output.
+[FRIDAY]: However, if you initiate the 'Veronica', the draw will increase by several orders of magnitude.
+[FRIDAY]: Good morning, Boss. All Mark LXXXV systems are reporting stable performance.
+[TONY]: Can we compensate with the backup actuators or do I need to eject the core?
+[FRIDAY]: Would you like me to prepare the cleaning droids for your arrival? The lab is currently at 99% capacity for clutter.
+[FRIDAY]: Course plotted. Estimated time of arrival: 10 minutes and 12 seconds.
+[FRIDAY]: Boss, we have a situation. The primary cooling loop is losing pressure. At this rate, the core will reach critical temperature in under fifteen seconds.
+[FRIDAY]: I can reroute 5% of the repulsor reserves to the redundant cooling systems.
+[FRIDAY]: Course plotted. Estimated time of arrival: 15 minutes and 15 seconds.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: compound.
+[TONY]: That's what keeps life interesting, Friday. Set a course for the Wakanda.
+[FRIDAY]: Would you like me to prepare the cleaning droids for your arrival? The lab is currently at 75% capacity for clutter.
+[FRIDAY]: Boss, we have a situation. The targeting grid is losing pressure. At this rate, the core will reach critical temperature in under ninety seconds.
+[TONY]: Great. How's the plasma generator holding up? Give me a core stability index.
+[FRIDAY]: The core temperature is holding at a steady 1,200 Kelvin. Energy consumption is currently at 45% of peak output.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Plasma leakage detected in the repulsor stabilization units.
+[TONY]: Great. How's the fusion core holding up? Give me a core stability index.
+[TONY]: Great. How's the chest node holding up? Give me a energy output chart.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: tower.
+[FRIDAY]: It appears the resonance was caused by a thermal expansion in the containment manifold.
+[FRIDAY]: The core temperature is holding at a steady 800 Kelvin. Energy consumption is currently at 30% of peak output.
+[FRIDAY]: I can reroute 25% of the arc reactor buffer to the redundant cooling systems.
+[TONY]: Great. How's the fusion core holding up? Give me a energy output chart.
+[FRIDAY]: Boss, we have a situation. The life support is losing pressure. At this rate, the core will reach critical temperature in under thirty seconds.
+[TONY]: That's what keeps life interesting, Friday. Set a course for the Wakanda.
+[FRIDAY]: Would you like me to prepare the Dum-E and U for your arrival? The lab is currently at 75% capacity for clutter.
+[FRIDAY]: Scanning now, Boss... I've detected a 0.04% variance in the auxiliary thrusters.
+[TONY]: Can we compensate with the emergency thrusters or do I need to call in the Hulkbuster?
+[FRIDAY]: Course plotted. Estimated time of arrival: 4 minutes and 0 seconds.
+[FRIDAY]: I can reroute 12% of the life support reserves to the backup actuators.
+[FRIDAY]: Boss, we have a situation. The life support is losing pressure. At this rate, the core will reach critical temperature in under thirty seconds.
+[FRIDAY]: Scanning now, Boss... I've detected a 3.14% variance in the lateral thrust vectors.
+[TONY]: Can we compensate with the redundant cooling systems or do I need to abort the mission?
+[TONY]: Just order some cheeseburgers, Friday. Extra spicy mayo.
+[FRIDAY]: However, if you initiate the 'Clean Slate', the draw will increase by several orders of magnitude.
+[FRIDAY]: Course plotted. Estimated time of arrival: 4 minutes and 45 seconds.
+[FRIDAY]: Good morning, Boss. All Mark L systems are reporting stable performance.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it three minutes ago based on your current electrolyte levels.
+[TONY]: Friday, run a full diagnostic on the targeting grid. I felt a slight vibration during the last high-G turn.
+[FRIDAY]: The core temperature is holding at a steady 2,500 Kelvin. Energy consumption is currently at 85% of peak output.
+[TONY]: Friday, run a full diagnostic on the flight stabilizers. I felt a slight shimmy during the last landing sequence.
+[TONY]: Great. How's the plasma generator holding up? Give me a efficiency rating.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Micro-meteorite impact detected in the targeting grid.
+[TONY]: Great. How's the chest node holding up? Give me a energy output chart.
+[FRIDAY]: That should stabilize life support for another 4 hours of mission time, though I recommend a full replacement once we return to the lab.
+[TONY]: Great. How's the chest node holding up? Give me a energy output chart.
+[FRIDAY]: Course plotted. Estimated time of arrival: 2 minutes and 12 seconds.
+[TONY]: Just order some pizza, Friday. Extra pepperoni.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: compound.
+[FRIDAY]: Scanning now, Boss... I've detected a 2.5% variance in the left boot assembly.
+[TONY]: Dump the right gauntlet repulsor and vent the excess exhaust into the atmosphere.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Power surge detected in the targeting grid.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Structural breach detected in the HUD interface.
+[FRIDAY]: That should stabilize communications for another 1.5 hours of mission time, though I recommend a full replacement once we return to the compound.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[FRIDAY]: Scanning now, Boss... I've detected a 2.5% variance in the primary heat sink.
+[FRIDAY]: Would you like me to prepare the Dum-E and U for your arrival? The lab is currently at 60% capacity for clutter.
+[FRIDAY]: Boss, we have a situation. The flight stabilizers is losing pressure. At this rate, the core will reach critical temperature in under fifteen seconds.
+[FRIDAY]: Good morning, Boss. All Mark VII systems are reporting sub-optimal performance.
+[TONY]: Just order some donuts, Friday. Extra garlic sauce.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: Malibu.
+[FRIDAY]: Good morning, Boss. All Mark XLIV systems are reporting critical performance.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it four minutes ago based on your current electrolyte levels.
+[FRIDAY]: It appears the stutter was caused by a power surge wear in the induction coil.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 1,100 Kelvin... 900 Kelvin.
+[FRIDAY]: I can reroute 5% of the life support reserves to the backup actuators.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Plasma leakage detected in the life support.
+[TONY]: Great. How's the fusion core holding up? Give me a efficiency rating.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Thermal runaway detected in the flight stabilizers.
+[FRIDAY]: Scanning now, Boss... I've detected a 0.04% variance in the left boot assembly.
+[TONY]: Can we compensate with the secondary stabilization grid or do I need to eject the core?
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it ten minutes ago based on your current hydration levels.
+[FRIDAY]: That should stabilize communications for another 12 hours of mission time, though I recommend a full replacement once we return to the lab.
+[TONY]: Just order some sushi, Friday. Extra garlic sauce.
+[FRIDAY]: It appears the power dip was caused by a power surge wear in the containment manifold.
+[TONY]: Just order some sushi, Friday. Extra spicy mayo.
+[FRIDAY]: I can reroute 15% of the auxiliary power to the backup actuators.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Micro-meteorite impact detected in the life support.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Structural breach detected in the flight stabilizers.
+[FRIDAY]: Scanning now, Boss... I've detected a 3.14% variance in the chest node.
+[TONY]: Great. How's the fusion core holding up? Give me a power-to-thermal ratio.
+[TONY]: Can we compensate with the emergency thrusters or do I need to eject the core?
+[FRIDAY]: Would you like me to prepare the cleaning droids for your arrival? The lab is currently at 99% capacity for clutter.
+[TONY]: Just order some shawarma, Friday. Extra pickles.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Plasma leakage detected in the flight stabilizers.
+[FRIDAY]: That should stabilize targeting for another 6 hours of mission time, though I recommend a full replacement once we return to the armory.
+[TONY]: Friday, run a full diagnostic on the targeting grid. I felt a slight lag during the last combat roll.
+[FRIDAY]: That should stabilize flight for another 12 hours of mission time, though I recommend a full replacement once we return to the armory.
+[FRIDAY]: Would you like me to prepare the medical units for your arrival? The lab is currently at 99% capacity for clutter.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 1,100 Kelvin... 900 Kelvin.
+[FRIDAY]: That should stabilize weapons lock for another 12 hours of mission time, though I recommend a full replacement once we return to the armory.
+[FRIDAY]: That should stabilize targeting for another 4 hours of mission time, though I recommend a full replacement once we return to the armory.
+[TONY]: Friday, run a full diagnostic on the primary cooling loop. I felt a slight vibration during the last combat roll.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Micro-meteorite impact detected in the arc reactor containment.
+[TONY]: That's what keeps life interesting, Friday. Set a course for the Wakanda.
+[FRIDAY]: Scanning now, Boss... I've detected a 1.2% variance in the auxiliary thrusters.
+[FRIDAY]: Good morning, Boss. All Mark XC systems are reporting optimal performance.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it four minutes ago based on your current blood sugar levels.
+[FRIDAY]: Would you like me to prepare the medical units for your arrival? The lab is currently at 75% capacity for clutter.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 3,000 Kelvin... 2,200 Kelvin.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Plasma leakage detected in the repulsor stabilization units.
+[FRIDAY]: The core temperature is holding at a steady 2,500 Kelvin. Energy consumption is currently at 92% of peak output.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: Malibu.
+[TONY]: Just order some shawarma, Friday. Extra pickles.
+[TONY]: Just order some pizza, Friday. Extra sprinkles.
+[TONY]: Just order some cheeseburgers, Friday. Extra spicy mayo.
+[TONY]: Can we compensate with the secondary stabilization grid or do I need to initiate a reboot?
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it three minutes ago based on your current adrenaline levels.
+[FRIDAY]: However, if you initiate the 'Lightning Strike', the draw will increase by several orders of magnitude.
+[FRIDAY]: Boss, we have a situation. The targeting grid is losing pressure. At this rate, the core will reach critical temperature in under thirty seconds.
+[FRIDAY]: The core temperature is holding at a steady 1,200 Kelvin. Energy consumption is currently at 85% of peak output.
+[FRIDAY]: However, if you initiate the 'House Party Protocol', the draw will increase by several orders of magnitude.
+[TONY]: Dump the chest node and vent the excess plasma into the ocean.
+[FRIDAY]: It appears the resonance was caused by a microscopic stress fracture in the primary nozzle.
+[TONY]: Great. How's the Arc Reactor holding up? Give me a power-to-thermal ratio.
+[TONY]: Great. How's the plasma generator holding up? Give me a power-to-thermal ratio.
+[FRIDAY]: Boss, we have a situation. The arc reactor containment is losing pressure. At this rate, the core will reach critical temperature in under ninety seconds.
+[TONY]: Just order some pizza, Friday. Extra sprinkles.
+[FRIDAY]: Good morning, Boss. All Mark XLII systems are reporting sub-optimal performance.
+[FRIDAY]: Course plotted. Estimated time of arrival: 15 minutes and 0 seconds.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 700 Kelvin... 500 Kelvin.
+[FRIDAY]: Good morning, Boss. All Mark L systems are reporting optimal performance.
+[TONY]: Just order some shawarma, Friday. Extra spicy mayo.
+[FRIDAY]: Would you like me to prepare the Dum-E and U for your arrival? The lab is currently at 95% capacity for clutter.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Plasma leakage detected in the arc reactor containment.
+[TONY]: Dump the primary heat sink and vent the excess radiation into the atmosphere.
+[FRIDAY]: It appears the vibration was caused by a power surge wear in the servo motor.
+[TONY]: Great. How's the Arc Reactor holding up? Give me a efficiency rating.
+[FRIDAY]: The core temperature is holding at a steady 2,500 Kelvin. Energy consumption is currently at 45% of peak output.
+[FRIDAY]: Would you like me to prepare the repair bots for your arrival? The lab is currently at 95% capacity for clutter.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: Malibu.
+[FRIDAY]: It appears the power dip was caused by a power surge wear in the containment manifold.
+[FRIDAY]: However, if you initiate the 'Silent Night', the draw will increase by several orders of magnitude.
+[TONY]: Friday, run a full diagnostic on the flight stabilizers. I felt a slight vibration during the last supersonic transition.
+[FRIDAY]: The core temperature is holding at a steady 800 Kelvin. Energy consumption is currently at 85% of peak output.
+[FRIDAY]: That should stabilize flight for another 2 hours of mission time, though I recommend a full replacement once we return to the compound.
+[TONY]: That's what keeps life interesting, Friday. Set a course for the Helicarrier.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 2,000 Kelvin... 1,500 Kelvin.
+[FRIDAY]: Scanning now, Boss... I've detected a 0.8% variance in the lateral thrust vectors.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: Wakanda.
+[FRIDAY]: That should stabilize life support for another 4 hours of mission time, though I recommend a full replacement once we return to the workshop.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 3,000 Kelvin... 2,200 Kelvin.
+[FRIDAY]: Scanning now, Boss... I've detected a 0.04% variance in the auxiliary thrusters.
+[FRIDAY]: Good morning, Boss. All Mark LXXXV systems are reporting stable performance.
+[TONY]: Friday, run a full diagnostic on the HUD interface. I felt a slight resonance during the last high-G turn.
+[TONY]: That's what keeps life interesting, Friday. Set a course for the Wakanda.
+[FRIDAY]: Boss, we have a situation. The primary cooling loop is losing pressure. At this rate, the core will reach critical temperature in under fifteen seconds.
+[FRIDAY]: The core temperature is holding at a steady 2,500 Kelvin. Energy consumption is currently at 30% of peak output.
+[TONY]: That's what keeps life interesting, Friday. Set a course for the tower.
+[FRIDAY]: Would you like me to prepare the repair bots for your arrival? The lab is currently at 85% capacity for clutter.
+[TONY]: Great. How's the chest node holding up? Give me a efficiency rating.
+[TONY]: Great. How's the plasma generator holding up? Give me a power-to-thermal ratio.
+[TONY]: Great. How's the chest node holding up? Give me a core stability index.
+[FRIDAY]: However, if you initiate the 'House Party Protocol', the draw will increase by several orders of magnitude.
+[FRIDAY]: Course plotted. Estimated time of arrival: 2 minutes and 15 seconds.
+[FRIDAY]: Would you like me to prepare the Dum-E and U for your arrival? The lab is currently at 85% capacity for clutter.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it three minutes ago based on your current cortisol levels.
+[FRIDAY]: That should stabilize weapons lock for another 12 hours of mission time, though I recommend a full replacement once we return to the lab.
+[FRIDAY]: Good morning, Boss. All Mark LXXXV systems are reporting critical performance.
+[FRIDAY]: However, if you initiate the 'Silent Night', the draw will increase by several orders of magnitude.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: Malibu.
+[TONY]: That's what keeps life interesting, Friday. Set a course for the Wakanda.
+[TONY]: Can we compensate with the redundant cooling systems or do I need to initiate a reboot?
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it two minutes ago based on your current cortisol levels.
+[FRIDAY]: That should stabilize life support for another 4 hours of mission time, though I recommend a full replacement once we return to the lab.
+[TONY]: Dump the right gauntlet repulsor and vent the excess coolant into the ocean.
+[FRIDAY]: Boss, we have a situation. The life support is losing pressure. At this rate, the core will reach critical temperature in under ninety seconds.
+[TONY]: Friday, run a full diagnostic on the primary cooling loop. I felt a slight resonance during the last atmospheric re-entry.
+[FRIDAY]: Good morning, Boss. All Mark XC systems are reporting stable performance.
+[FRIDAY]: It appears the resonance was caused by a power surge wear in the primary nozzle.
+[FRIDAY]: Good morning, Boss. All Mark VII systems are reporting stable performance.
+[FRIDAY]: That should stabilize life support for another 6 hours of mission time, though I recommend a full replacement once we return to the compound.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Structural breach detected in the life support.
+[FRIDAY]: Course plotted. Estimated time of arrival: 2 minutes and 45 seconds.
+[TONY]: That's what keeps life interesting, Friday. Set a course for the tower.
+[FRIDAY]: Course plotted. Estimated time of arrival: 15 minutes and 30 seconds.
+[FRIDAY]: Scanning now, Boss... I've detected a 0.04% variance in the primary heat sink.
+[TONY]: Friday, run a full diagnostic on the arc reactor containment. I felt a slight power dip during the last high-G turn.
+[TONY]: Dump the lateral thrust vectors and vent the excess exhaust into the ocean.
+[FRIDAY]: Would you like me to prepare the repair bots for your arrival? The lab is currently at 95% capacity for clutter.
+[FRIDAY]: That should stabilize weapons lock for another 1.5 hours of mission time, though I recommend a full replacement once we return to the lab.
+[FRIDAY]: However, if you initiate the 'Veronica', the draw will increase by several orders of magnitude.
+[TONY]: Just order some pizza, Friday. Extra sprinkles.
+[FRIDAY]: The core temperature is holding at a steady 3,400 Kelvin. Energy consumption is currently at 92% of peak output.
+[TONY]: Just order some shawarma, Friday. Extra pickles.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: compound.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: Wakanda.
+[TONY]: Can we compensate with the emergency thrusters or do I need to call in the Hulkbuster?
+[TONY]: Just order some shawarma, Friday. Extra garlic sauce.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 3,000 Kelvin... 2,200 Kelvin.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Micro-meteorite impact detected in the arc reactor containment.
+[FRIDAY]: Boss, we have a situation. The primary cooling loop is losing pressure. At this rate, the core will reach critical temperature in under forty-five seconds.
+[FRIDAY]: However, if you initiate the 'Lightning Strike', the draw will increase by several orders of magnitude.
+[FRIDAY]: Course plotted. Estimated time of arrival: 10 minutes and 30 seconds.
+[FRIDAY]: It appears the vibration was caused by a coolant leak in the induction coil.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[TONY]: Can we compensate with the emergency thrusters or do I need to ground the suit?
+[FRIDAY]: Course plotted. Estimated time of arrival: 45 minutes and 45 seconds.
+[TONY]: Great. How's the chest node holding up? Give me a efficiency rating.
+[FRIDAY]: Course plotted. Estimated time of arrival: 4 minutes and 45 seconds.
+[FRIDAY]: Good morning, Boss. All Mark LXXX systems are reporting stable performance.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 700 Kelvin... 500 Kelvin.
+[FRIDAY]: Good morning, Boss. All Mark XC systems are reporting critical performance.
+[TONY]: Dump the chest node and vent the excess plasma into the lower stratosphere.
+[FRIDAY]: Boss, we have a situation. The flight stabilizers is losing pressure. At this rate, the core will reach critical temperature in under fifteen seconds.
+[FRIDAY]: Course plotted. Estimated time of arrival: 15 minutes and 12 seconds.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[TONY]: Great. How's the Arc Reactor holding up? Give me a power-to-thermal ratio.
+[FRIDAY]: Would you like me to prepare the medical units for your arrival? The lab is currently at 75% capacity for clutter.
+[FRIDAY]: The core temperature is holding at a steady 1,200 Kelvin. Energy consumption is currently at 85% of peak output.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[FRIDAY]: Scanning now, Boss... I've detected a 0.01% variance in the primary heat sink.
+[TONY]: Just order some donuts, Friday. Extra garlic sauce.
+[FRIDAY]: Boss, we have a situation. The targeting grid is losing pressure. At this rate, the core will reach critical temperature in under fifteen seconds.
+[TONY]: Dump the auxiliary thrusters and vent the excess radiation into the lower stratosphere.
+[TONY]: Dump the left boot assembly and vent the excess coolant into the ocean.
+[TONY]: Can we compensate with the secondary stabilization grid or do I need to ground the suit?
+[FRIDAY]: The core temperature is holding at a steady 2,500 Kelvin. Energy consumption is currently at 45% of peak output.
+[FRIDAY]: However, if you initiate the 'Silent Night', the draw will increase by several orders of magnitude.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: Wakanda.
+[TONY]: Friday, run a full diagnostic on the targeting grid. I felt a slight power dip during the last landing sequence.
+[TONY]: That's what keeps life interesting, Friday. Set a course for the Helicarrier.
+[TONY]: Friday, run a full diagnostic on the HUD interface. I felt a slight resonance during the last high-G turn.
+[FRIDAY]: The core temperature is holding at a steady 2,500 Kelvin. Energy consumption is currently at 12% of peak output.
+[TONY]: Great. How's the chest node holding up? Give me a core stability index.
+[TONY]: Dump the primary heat sink and vent the excess exhaust into the vacuum.
+[TONY]: Can we compensate with the auxiliary power cells or do I need to abort the mission?
+[FRIDAY]: However, if you initiate the 'Veronica', the draw will increase by several orders of magnitude.
+[TONY]: Just order some shawarma, Friday. Extra spicy mayo.
+[FRIDAY]: Course plotted. Estimated time of arrival: 4 minutes and 15 seconds.
+[TONY]: Dump the right gauntlet repulsor and vent the excess ionized gas into the atmosphere.
+[TONY]: Just order some cheeseburgers, Friday. Extra pepperoni.
+[FRIDAY]: However, if you initiate the 'Lightning Strike', the draw will increase by several orders of magnitude.
+[FRIDAY]: Would you like me to prepare the repair bots for your arrival? The lab is currently at 95% capacity for clutter.
+[TONY]: Can we compensate with the secondary stabilization grid or do I need to abort the mission?
+[FRIDAY]: Would you like me to prepare the repair bots for your arrival? The lab is currently at 99% capacity for clutter.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it three minutes ago based on your current electrolyte levels.
+[FRIDAY]: However, if you initiate the 'Clean Slate', the draw will increase by several orders of magnitude.
+[FRIDAY]: I can reroute 15% of the weapon systems to the auxiliary power cells.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: Wakanda.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: compound.
+[TONY]: Dump the auxiliary thrusters and vent the excess plasma into the ocean.
+[FRIDAY]: I can reroute 50% of the life support reserves to the auxiliary power cells.
+[FRIDAY]: However, if you initiate the 'Silent Night', the draw will increase by several orders of magnitude.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 2,000 Kelvin... 1,500 Kelvin.
+[TONY]: Can we compensate with the backup actuators or do I need to call in the Hulkbuster?
+[TONY]: Can we compensate with the backup actuators or do I need to eject the core?
+[FRIDAY]: I can reroute 12% of the life support reserves to the backup actuators.
+[TONY]: Can we compensate with the secondary stabilization grid or do I need to eject the core?
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 1,100 Kelvin... 900 Kelvin.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: tower.
+[TONY]: Just order some cheeseburgers, Friday. Extra pepperoni.
+[FRIDAY]: I can reroute 50% of the repulsor reserves to the emergency thrusters.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Thermal runaway detected in the flight stabilizers.
+[FRIDAY]: Course plotted. Estimated time of arrival: 4 minutes and 45 seconds.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it two minutes ago based on your current adrenaline levels.
+[FRIDAY]: I can reroute 25% of the weapon systems to the secondary stabilization grid.
+[FRIDAY]: Scanning now, Boss... I've detected a 0.01% variance in the primary heat sink.
+[TONY]: Just order some donuts, Friday. Extra garlic sauce.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 1,100 Kelvin... 900 Kelvin.
+[FRIDAY]: However, if you initiate the 'Lightning Strike', the draw will increase by several orders of magnitude.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 700 Kelvin... 500 Kelvin.
+[FRIDAY]: However, if you initiate the 'Clean Slate', the draw will increase by several orders of magnitude.
+[TONY]: Friday, run a full diagnostic on the targeting grid. I felt a slight shimmy during the last supersonic transition.
+[FRIDAY]: Boss, we have a situation. The flight stabilizers is losing pressure. At this rate, the core will reach critical temperature in under sixty seconds.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: compound.
+[FRIDAY]: It appears the shimmy was caused by a impact deformation in the plasma conduit.
+[FRIDAY]: Course plotted. Estimated time of arrival: 15 minutes and 30 seconds.
+[TONY]: Dump the primary heat sink and vent the excess radiation into the atmosphere.
+[FRIDAY]: However, if you initiate the 'House Party Protocol', the draw will increase by several orders of magnitude.
+[FRIDAY]: Course plotted. Estimated time of arrival: 10 minutes and 30 seconds.
+[TONY]: Friday, run a full diagnostic on the arc reactor containment. I felt a slight shimmy during the last landing sequence.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it two minutes ago based on your current adrenaline levels.
+[TONY]: Can we compensate with the backup actuators or do I need to initiate a reboot?
+[FRIDAY]: Would you like me to prepare the repair bots for your arrival? The lab is currently at 75% capacity for clutter.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it four minutes ago based on your current blood sugar levels.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 2,000 Kelvin... 1,500 Kelvin.
+[TONY]: Can we compensate with the redundant cooling systems or do I need to ground the suit?
+[TONY]: Just order some pizza, Friday. Extra spicy mayo.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 2,000 Kelvin... 1,500 Kelvin.
+[FRIDAY]: Boss, we have a situation. The targeting grid is losing pressure. At this rate, the core will reach critical temperature in under thirty seconds.
+[FRIDAY]: That should stabilize life support for another 6 hours of mission time, though I recommend a full replacement once we return to the lab.
+[FRIDAY]: It appears the resonance was caused by a impact deformation in the servo motor.
+[FRIDAY]: Scanning now, Boss... I've detected a 1.2% variance in the auxiliary thrusters.
+[FRIDAY]: The core temperature is holding at a steady 2,500 Kelvin. Energy consumption is currently at 30% of peak output.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 1,100 Kelvin... 900 Kelvin.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: compound.
+[FRIDAY]: It appears the shimmy was caused by a thermal expansion in the containment manifold.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Micro-meteorite impact detected in the life support.
+[TONY]: Great. How's the plasma generator holding up? Give me a core stability index.
+[FRIDAY]: Good morning, Boss. All Mark LXXXV systems are reporting nominal performance.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Plasma leakage detected in the targeting grid.
+[TONY]: Just order some cheeseburgers, Friday. Extra pickles.
+[TONY]: Friday, run a full diagnostic on the repulsor stabilization units. I felt a slight resonance during the last combat roll.
+[TONY]: Just order some sushi, Friday. Extra garlic sauce.
+[FRIDAY]: Course plotted. Estimated time of arrival: 45 minutes and 15 seconds.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it five minutes ago based on your current hydration levels.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Thermal runaway detected in the targeting grid.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it ten minutes ago based on your current cortisol levels.
+[FRIDAY]: Good morning, Boss. All Mark LXXXV systems are reporting nominal performance.
+[FRIDAY]: Scanning now, Boss... I've detected a 0.01% variance in the chest node.
+[FRIDAY]: Good morning, Boss. All Mark XLIV systems are reporting nominal performance.
+[TONY]: That's what keeps life interesting, Friday. Set a course for the tower.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[TONY]: Just order some sushi, Friday. Extra spicy mayo.
+[FRIDAY]: Boss, we have a situation. The arc reactor containment is losing pressure. At this rate, the core will reach critical temperature in under forty-five seconds.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: compound.
+[TONY]: Just order some shawarma, Friday. Extra pepperoni.
+[FRIDAY]: Scanning now, Boss... I've detected a 2.5% variance in the primary heat sink.
+[FRIDAY]: However, if you initiate the 'Lightning Strike', the draw will increase by several orders of magnitude.
+[FRIDAY]: It appears the lag was caused by a power surge wear in the servo motor.
+[FRIDAY]: Course plotted. Estimated time of arrival: 10 minutes and 12 seconds.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it two minutes ago based on your current blood sugar levels.
+[TONY]: Just order some cheeseburgers, Friday. Extra sprinkles.
+[TONY]: Great. How's the Arc Reactor holding up? Give me a efficiency rating.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Thermal runaway detected in the life support.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it three minutes ago based on your current cortisol levels.
+[FRIDAY]: That should stabilize weapons lock for another 4 hours of mission time, though I recommend a full replacement once we return to the workshop.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 700 Kelvin... 500 Kelvin.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Structural breach detected in the HUD interface.
+[FRIDAY]: The core temperature is holding at a steady 2,500 Kelvin. Energy consumption is currently at 30% of peak output.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it four minutes ago based on your current electrolyte levels.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: Helicarrier.
+[FRIDAY]: I can reroute 15% of the weapon systems to the backup actuators.
+[TONY]: Just order some pizza, Friday. Extra pickles.
+[FRIDAY]: Would you like me to prepare the cleaning droids for your arrival? The lab is currently at 60% capacity for clutter.
+[FRIDAY]: Would you like me to prepare the repair bots for your arrival? The lab is currently at 75% capacity for clutter.
+[FRIDAY]: Good morning, Boss. All Mark XC systems are reporting optimal performance.
+[FRIDAY]: The core temperature is holding at a steady 1,050 Kelvin. Energy consumption is currently at 12% of peak output.
+[FRIDAY]: However, if you initiate the 'Lightning Strike', the draw will increase by several orders of magnitude.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: Helicarrier.
+[TONY]: That's what keeps life interesting, Friday. Set a course for the tower.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: compound.
+[TONY]: That's what keeps life interesting, Friday. Set a course for the Malibu.
+[FRIDAY]: However, if you initiate the 'Lightning Strike', the draw will increase by several orders of magnitude.
+[TONY]: Friday, run a full diagnostic on the HUD interface. I felt a slight power dip during the last combat roll.
+[TONY]: Friday, run a full diagnostic on the life support. I felt a slight lag during the last supersonic transition.
+[TONY]: Friday, run a full diagnostic on the life support. I felt a slight vibration during the last supersonic transition.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it two minutes ago based on your current adrenaline levels.
+[FRIDAY]: I can reroute 12% of the weapon systems to the auxiliary power cells.
+[TONY]: That's what keeps life interesting, Friday. Set a course for the Wakanda.
+[FRIDAY]: Scanning now, Boss... I've detected a 0.04% variance in the chest node.
+[FRIDAY]: The core temperature is holding at a steady 1,200 Kelvin. Energy consumption is currently at 45% of peak output.
+[TONY]: Just order some cheeseburgers, Friday. Extra pepperoni.
+[FRIDAY]: Would you like me to prepare the medical units for your arrival? The lab is currently at 99% capacity for clutter.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 700 Kelvin... 500 Kelvin.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 2,000 Kelvin... 1,500 Kelvin.
+[FRIDAY]: Good morning, Boss. All Mark LXXXV systems are reporting sub-optimal performance.
+[FRIDAY]: Scanning now, Boss... I've detected a 0.04% variance in the primary heat sink.
+[FRIDAY]: Boss, we have a situation. The repulsor stabilization units is losing pressure. At this rate, the core will reach critical temperature in under sixty seconds.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 3,000 Kelvin... 2,200 Kelvin.
+[TONY]: Friday, run a full diagnostic on the repulsor stabilization units. I felt a slight power dip during the last supersonic transition.
+[FRIDAY]: Course plotted. Estimated time of arrival: 4 minutes and 30 seconds.
+[FRIDAY]: Scanning now, Boss... I've detected a 0.8% variance in the left boot assembly.
+[FRIDAY]: Good morning, Boss. All Mark XLII systems are reporting sub-optimal performance.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[TONY]: Great. How's the plasma generator holding up? Give me a core stability index.
+[TONY]: Dump the right gauntlet repulsor and vent the excess radiation into the lower stratosphere.
+[TONY]: Just order some donuts, Friday. Extra pepperoni.
+[FRIDAY]: Boss, we have a situation. The life support is losing pressure. At this rate, the core will reach critical temperature in under sixty seconds.
+[FRIDAY]: I can reroute 25% of the weapon systems to the backup actuators.
+[TONY]: Just order some cheeseburgers, Friday. Extra pickles.
+[TONY]: Friday, run a full diagnostic on the arc reactor containment. I felt a slight shimmy during the last supersonic transition.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it three minutes ago based on your current blood sugar levels.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Power surge detected in the life support.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: Malibu.
+[FRIDAY]: Would you like me to prepare the repair bots for your arrival? The lab is currently at 60% capacity for clutter.
+[TONY]: Just order some cheeseburgers, Friday. Extra garlic sauce.
+[TONY]: Great. How's the fusion core holding up? Give me a core stability index.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[FRIDAY]: I can reroute 50% of the life support reserves to the auxiliary power cells.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: Malibu.
+[TONY]: Can we compensate with the auxiliary power cells or do I need to call in the Hulkbuster?
+[TONY]: Dump the left boot assembly and vent the excess exhaust into the ocean.
+[FRIDAY]: I can reroute 12% of the weapon systems to the redundant cooling systems.
+[FRIDAY]: It appears the stutter was caused by a microscopic stress fracture in the containment manifold.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: Wakanda.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Thermal runaway detected in the flight stabilizers.
+[FRIDAY]: It appears the shimmy was caused by a microscopic stress fracture in the plasma conduit.
+[FRIDAY]: Would you like me to prepare the medical units for your arrival? The lab is currently at 95% capacity for clutter.
+[FRIDAY]: Course plotted. Estimated time of arrival: 15 minutes and 15 seconds.
+[FRIDAY]: However, if you initiate the 'Lightning Strike', the draw will increase by several orders of magnitude.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[FRIDAY]: However, if you initiate the 'Silent Night', the draw will increase by several orders of magnitude.
+[FRIDAY]: I can reroute 12% of the life support reserves to the redundant cooling systems.
+[TONY]: Friday, run a full diagnostic on the HUD interface. I felt a slight shimmy during the last landing sequence.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[FRIDAY]: Boss, we have a situation. The arc reactor containment is losing pressure. At this rate, the core will reach critical temperature in under sixty seconds.
+[TONY]: Can we compensate with the auxiliary power cells or do I need to ground the suit?
+[FRIDAY]: Scanning now, Boss... I've detected a 1.2% variance in the auxiliary thrusters.
+[TONY]: Great. How's the plasma generator holding up? Give me a efficiency rating.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[FRIDAY]: Course plotted. Estimated time of arrival: 10 minutes and 45 seconds.
+[TONY]: Friday, run a full diagnostic on the targeting grid. I felt a slight vibration during the last high-G turn.
+[FRIDAY]: Would you like me to prepare the medical units for your arrival? The lab is currently at 95% capacity for clutter.
+[TONY]: That's what keeps life interesting, Friday. Set a course for the Malibu.
+[TONY]: Friday, run a full diagnostic on the repulsor stabilization units. I felt a slight vibration during the last atmospheric re-entry.
+[FRIDAY]: I can reroute 25% of the auxiliary power to the redundant cooling systems.
+[FRIDAY]: That should stabilize communications for another 2 hours of mission time, though I recommend a full replacement once we return to the tower.
+[TONY]: Can we compensate with the secondary stabilization grid or do I need to initiate a reboot?
+[FRIDAY]: The core temperature is holding at a steady 2,500 Kelvin. Energy consumption is currently at 85% of peak output.
+[TONY]: Dump the right gauntlet repulsor and vent the excess ionized gas into the vacuum.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: Helicarrier.
+[TONY]: That's what keeps life interesting, Friday. Set a course for the Malibu.
+[TONY]: Friday, run a full diagnostic on the targeting grid. I felt a slight resonance during the last supersonic transition.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Micro-meteorite impact detected in the repulsor stabilization units.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: Helicarrier.
+[FRIDAY]: That should stabilize communications for another 2 hours of mission time, though I recommend a full replacement once we return to the lab.
+[FRIDAY]: Course plotted. Estimated time of arrival: 15 minutes and 0 seconds.
+[FRIDAY]: Boss, we have a situation. The arc reactor containment is losing pressure. At this rate, the core will reach critical temperature in under sixty seconds.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it three minutes ago based on your current hydration levels.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it four minutes ago based on your current cortisol levels.
+[FRIDAY]: I can reroute 40% of the repulsor reserves to the backup actuators.
+[TONY]: Can we compensate with the backup actuators or do I need to abort the mission?
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[FRIDAY]: Good morning, Boss. All Mark VII systems are reporting stable performance.
+[FRIDAY]: That should stabilize communications for another 12 hours of mission time, though I recommend a full replacement once we return to the lab.
+[FRIDAY]: It appears the stutter was caused by a thermal expansion in the containment manifold.
+[FRIDAY]: Course plotted. Estimated time of arrival: 10 minutes and 45 seconds.
+[FRIDAY]: Would you like me to prepare the Dum-E and U for your arrival? The lab is currently at 99% capacity for clutter.
+[TONY]: Can we compensate with the emergency thrusters or do I need to abort the mission?
+[TONY]: Just order some shawarma, Friday. Extra spicy mayo.
+[TONY]: Great. How's the fusion core holding up? Give me a energy output chart.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 1,100 Kelvin... 900 Kelvin.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Micro-meteorite impact detected in the primary cooling loop.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Power surge detected in the arc reactor containment.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[FRIDAY]: Boss, we have a situation. The HUD interface is losing pressure. At this rate, the core will reach critical temperature in under fifteen seconds.
+[FRIDAY]: Would you like me to prepare the medical units for your arrival? The lab is currently at 85% capacity for clutter.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: Malibu.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 3,000 Kelvin... 2,200 Kelvin.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it ten minutes ago based on your current adrenaline levels.
+[FRIDAY]: Scanning now, Boss... I've detected a 0.01% variance in the chest node.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: Helicarrier.
+[TONY]: Friday, run a full diagnostic on the life support. I felt a slight stutter during the last landing sequence.
+[TONY]: That's what keeps life interesting, Friday. Set a course for the tower.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it two minutes ago based on your current hydration levels.
+[FRIDAY]: Good morning, Boss. All Mark LXXX systems are reporting sub-optimal performance.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Micro-meteorite impact detected in the targeting grid.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 1,100 Kelvin... 900 Kelvin.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 2,000 Kelvin... 1,500 Kelvin.
+[FRIDAY]: It appears the lag was caused by a thermal expansion in the containment manifold.
+[TONY]: Great. How's the plasma generator holding up? Give me a energy output chart.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[FRIDAY]: Course plotted. Estimated time of arrival: 4 minutes and 45 seconds.
+[FRIDAY]: It appears the resonance was caused by a impact deformation in the primary nozzle.
+[TONY]: Great. How's the Arc Reactor holding up? Give me a energy output chart.
+[FRIDAY]: Boss, we have a situation. The arc reactor containment is losing pressure. At this rate, the core will reach critical temperature in under fifteen seconds.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: Wakanda.
+[TONY]: Dump the chest node and vent the excess plasma into the lower stratosphere.
+[FRIDAY]: That should stabilize targeting for another 2 hours of mission time, though I recommend a full replacement once we return to the lab.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it ten minutes ago based on your current hydration levels.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: Malibu.
+[FRIDAY]: The core temperature is holding at a steady 1,200 Kelvin. Energy consumption is currently at 30% of peak output.
+[FRIDAY]: Would you like me to prepare the repair bots for your arrival? The lab is currently at 95% capacity for clutter.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 3,000 Kelvin... 2,200 Kelvin.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Thermal runaway detected in the arc reactor containment.
+[FRIDAY]: Boss, we have a situation. The flight stabilizers is losing pressure. At this rate, the core will reach critical temperature in under ninety seconds.
+[FRIDAY]: I can reroute 12% of the weapon systems to the emergency thrusters.
+[TONY]: Just order some pizza, Friday. Extra pepperoni.
+[TONY]: Just order some donuts, Friday. Extra garlic sauce.
+[TONY]: Friday, run a full diagnostic on the arc reactor containment. I felt a slight lag during the last high-G turn.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 1,100 Kelvin... 900 Kelvin.
+[TONY]: Great. How's the chest node holding up? Give me a core stability index.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[FRIDAY]: Good morning, Boss. All Mark L systems are reporting critical performance.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: Helicarrier.
+[FRIDAY]: Would you like me to prepare the medical units for your arrival? The lab is currently at 60% capacity for clutter.
+[SYSTEM_ALERT]: Warning—External integrity check failed. Micro-meteorite impact detected in the HUD interface.
+[FRIDAY]: Scanning now, Boss... I've detected a 0.8% variance in the primary heat sink.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 2,000 Kelvin... 1,500 Kelvin.
+[FRIDAY]: Course plotted. Estimated time of arrival: 4 minutes and 45 seconds.
+[FRIDAY]: Scanning now, Boss... I've detected a 3.14% variance in the right gauntlet repulsor.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: compound.
+[FRIDAY]: It appears the shimmy was caused by a microscopic stress fracture in the plasma conduit.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 700 Kelvin... 500 Kelvin.
+[FRIDAY]: However, if you initiate the 'Clean Slate', the draw will increase by several orders of magnitude.
+[TONY]: Dump the right gauntlet repulsor and vent the excess ionized gas into the lower stratosphere.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 1,100 Kelvin... 900 Kelvin.
+[TONY]: Dump the auxiliary thrusters and vent the excess plasma into the ocean.
+[FRIDAY]: That should stabilize weapons lock for another 12 hours of mission time, though I recommend a full replacement once we return to the lab.
+[TONY]: Dump the right gauntlet repulsor and vent the excess coolant into the vacuum.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 3,000 Kelvin... 2,200 Kelvin.
+[FRIDAY]: Course plotted. Estimated time of arrival: 45 minutes and 0 seconds.
+[FRIDAY]: However, if you initiate the 'House Party Protocol', the draw will increase by several orders of magnitude.
+[FRIDAY]: The core temperature is holding at a steady 1,200 Kelvin. Energy consumption is currently at 45% of peak output.
+[FRIDAY]: It appears the shimmy was caused by a thermal expansion in the induction coil.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it two minutes ago based on your current adrenaline levels.
+[FRIDAY]: The core temperature is holding at a steady 1,050 Kelvin. Energy consumption is currently at 30% of peak output.
+[TONY]: Dump the lateral thrust vectors and vent the excess plasma into the atmosphere.
+[FRIDAY]: Would you like me to prepare the cleaning droids for your arrival? The lab is currently at 75% capacity for clutter.
+[TONY]: Friday, run a full diagnostic on the primary cooling loop. I felt a slight vibration during the last combat roll.
+[TONY]: Dump the chest node and vent the excess plasma into the vacuum.
+[FRIDAY]: Course plotted. Estimated time of arrival: 4 minutes and 0 seconds.
+[FRIDAY]: Boss, we have a situation. The targeting grid is losing pressure. At this rate, the core will reach critical temperature in under sixty seconds.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[FRIDAY]: Scanning now, Boss... I've detected a 0.8% variance in the auxiliary thrusters.
+[FRIDAY]: Good morning, Boss. All Mark LXXXV systems are reporting optimal performance.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 2,000 Kelvin... 1,500 Kelvin.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it two minutes ago based on your current cortisol levels.
+[FRIDAY]: Boss, we have a situation. The arc reactor containment is losing pressure. At this rate, the core will reach critical temperature in under ninety seconds.
+[TONY]: Dump the lateral thrust vectors and vent the excess radiation into the ocean.
+[FRIDAY]: That should stabilize life support for another 6 hours of mission time, though I recommend a full replacement once we return to the compound.
+[TONY]: Can we compensate with the backup actuators or do I need to initiate a reboot?
+[FRIDAY]: It appears the stutter was caused by a coolant leak in the plasma conduit.
+[FRIDAY]: Scanning now, Boss... I've detected a 2.5% variance in the auxiliary thrusters.
+[FRIDAY]: That should stabilize life support for another 6 hours of mission time, though I recommend a full replacement once we return to the workshop.
+[FRIDAY]: It appears the power dip was caused by a coolant leak in the induction coil.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: Helicarrier.
+[FRIDAY]: I can reroute 5% of the weapon systems to the emergency thrusters.
+[FRIDAY]: Good morning, Boss. All Mark XLII systems are reporting optimal performance.
+[FRIDAY]: Course plotted. Estimated time of arrival: 15 minutes and 45 seconds.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it two minutes ago based on your current electrolyte levels.
+[FRIDAY]: However, if you initiate the 'Veronica', the draw will increase by several orders of magnitude.
+[TONY]: Can we compensate with the redundant cooling systems or do I need to eject the core?
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 2,000 Kelvin... 1,500 Kelvin.
+[TONY]: That's what keeps life interesting, Friday. Set a course for the Wakanda.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: Malibu.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: Malibu.
+[TONY]: Can we compensate with the redundant cooling systems or do I need to ground the suit?
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: tower.
+[FRIDAY]: I can reroute 12% of the arc reactor buffer to the emergency thrusters.
+[TONY]: That's what keeps life interesting, Friday. Set a course for the Wakanda.
+[FRIDAY]: I can reroute 15% of the repulsor reserves to the emergency thrusters.
+[TONY]: Dump the chest node and vent the excess coolant into the atmosphere.
+[FRIDAY]: However, if you initiate the 'House Party Protocol', the draw will increase by several orders of magnitude.
+[TONY]: Friday, run a full diagnostic on the life support. I felt a slight power dip during the last high-G turn.
+[TONY]: Can we compensate with the redundant cooling systems or do I need to call in the Hulkbuster?
+[TONY]: Great. How's the chest node holding up? Give me a efficiency rating.
+[FRIDAY]: It appears the lag was caused by a microscopic stress fracture in the primary nozzle.
+[TONY]: Dump the lateral thrust vectors and vent the excess exhaust into the vacuum.
+[FRIDAY]: Course plotted. Estimated time of arrival: 10 minutes and 12 seconds.
+[FRIDAY]: Good morning, Boss. All Mark XLIV systems are reporting nominal performance.
+[FRIDAY]: Boss, we have a situation. The life support is losing pressure. At this rate, the core will reach critical temperature in under forty-five seconds.
+[FRIDAY]: Good morning, Boss. All Mark XC systems are reporting sub-optimal performance.
+[FRIDAY]: That should stabilize communications for another 4 hours of mission time, though I recommend a full replacement once we return to the tower.
+[FRIDAY]: That should stabilize targeting for another 4 hours of mission time, though I recommend a full replacement once we return to the tower.
+[TONY]: Friday, run a full diagnostic on the primary cooling loop. I felt a slight stutter during the last atmospheric re-entry.
+[FRIDAY]: Boss, we have a situation. The primary cooling loop is losing pressure. At this rate, the core will reach critical temperature in under fifteen seconds.
+[FRIDAY]: Scanning now, Boss... I've detected a 3.14% variance in the left boot assembly.
+[FRIDAY]: The core temperature is holding at a steady 800 Kelvin. Energy consumption is currently at 30% of peak output.
+[FRIDAY]: It appears the resonance was caused by a coolant leak in the plasma conduit.
+[FRIDAY]: Scanning now, Boss... I've detected a 0.01% variance in the auxiliary thrusters.
+[TONY]: Friday, run a full diagnostic on the primary cooling loop. I felt a slight vibration during the last landing sequence.
+[FRIDAY]: It appears the resonance was caused by a thermal expansion in the servo motor.
+[TONY]: Friday, run a full diagnostic on the HUD interface. I felt a slight shimmy during the last supersonic transition.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it ten minutes ago based on your current hydration levels.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[TONY]: Great. How's the Arc Reactor holding up? Give me a core stability index.
+[FRIDAY]: Boss, we have a situation. The targeting grid is losing pressure. At this rate, the core will reach critical temperature in under thirty seconds.
+[FRIDAY]: The core temperature is holding at a steady 3,400 Kelvin. Energy consumption is currently at 12% of peak output.
+[TONY]: That's what keeps life interesting, Friday. Set a course for the Wakanda.
+[TONY]: Can we compensate with the secondary stabilization grid or do I need to eject the core?
+[FRIDAY]: That should stabilize targeting for another 6 hours of mission time, though I recommend a full replacement once we return to the workshop.
+[FRIDAY]: Good morning, Boss. All Mark XLII systems are reporting sub-optimal performance.
+[TONY]: Just order some pizza, Friday. Extra sprinkles.
+[FRIDAY]: Would you like me to prepare the cleaning droids for your arrival? The lab is currently at 99% capacity for clutter.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: compound.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 700 Kelvin... 500 Kelvin.
+[TONY]: Just order some pizza, Friday. Extra garlic sauce.
+[TONY]: Great. How's the fusion core holding up? Give me a energy output chart.
+[TONY]: Dump the auxiliary thrusters and vent the excess ionized gas into the lower stratosphere.
+[FRIDAY]: The core temperature is holding at a steady 1,050 Kelvin. Energy consumption is currently at 30% of peak output.
+[TONY]: Friday, run a full diagnostic on the arc reactor containment. I felt a slight stutter during the last supersonic transition.
+[TONY]: Friday, run a full diagnostic on the arc reactor containment. I felt a slight resonance during the last landing sequence.
+[FRIDAY]: Would you like me to prepare the repair bots for your arrival? The lab is currently at 95% capacity for clutter.
+[FRIDAY]: Scanning now, Boss... I've detected a 3.14% variance in the primary heat sink.
+[TONY]: Can we compensate with the auxiliary power cells or do I need to call in the Hulkbuster?
+[TONY]: Dump the chest node and vent the excess exhaust into the atmosphere.
+[FRIDAY]: Good morning, Boss. All Mark VII systems are reporting stable performance.
+[TONY]: Just order some pizza, Friday. Extra pepperoni.
+[FRIDAY]: That should stabilize flight for another 2 hours of mission time, though I recommend a full replacement once we return to the tower.
+[FRIDAY]: That should stabilize life support for another 1.5 hours of mission time, though I recommend a full replacement once we return to the compound.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 700 Kelvin... 500 Kelvin.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[FRIDAY]: I can reroute 5% of the arc reactor buffer to the backup actuators.
+[FRIDAY]: I can reroute 12% of the arc reactor buffer to the auxiliary power cells.
+[TONY]: Just order some cheeseburgers, Friday. Extra spicy mayo.
+[FRIDAY]: That should stabilize weapons lock for another 12 hours of mission time, though I recommend a full replacement once we return to the armory.
+[FRIDAY]: On it, Boss. I've already anticipated your order and placed it two minutes ago based on your current cortisol levels.
+[FRIDAY]: Boss, we have a situation. The arc reactor containment is losing pressure. At this rate, the core will reach critical temperature in under forty-five seconds.
+[FRIDAY]: However, if you initiate the 'House Party Protocol', the draw will increase by several orders of magnitude.
+[FRIDAY]: Good morning, Boss. All Mark XLII systems are reporting nominal performance.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 2,000 Kelvin... 1,500 Kelvin.
+[TONY]: Just order some cheeseburgers, Friday. Extra spicy mayo.
+[FRIDAY]: Would you like me to prepare the repair bots for your arrival? The lab is currently at 99% capacity for clutter.
+[SYSTEM_LOG]: Navigation locked. Propulsion system engaged. Destination: Helicarrier.
+[TONY]: Can we compensate with the redundant cooling systems or do I need to ground the suit?
+[FRIDAY]: However, if you initiate the 'Lightning Strike', the draw will increase by several orders of magnitude.
+[TONY]: Just order some pizza, Friday. Extra pepperoni.
+[FRIDAY]: Crisis averted. Though I must say, Boss, your flair for the dramatic is becoming a significant variable in my predictive models.
+[FRIDAY]: Venting initiated. Emergency protocols engaged. Core temperature dropping... 1,100 Kelvin... 900 Kelvin.
+[FRIDAY]: Scanning now, Boss... I've detected a 0.8% variance in the auxiliary thrusters.
