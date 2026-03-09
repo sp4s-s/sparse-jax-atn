@@ -68,6 +68,7 @@ python roofline.py --hardware tpu_v5e
 # crush the memory allocator
 python stress.py --host-ram 6.0 --ceiling --accumulation --mixed
 ```
+idk but alot of result stuff is inside the "tensorboard_logs" dir.
 
 ## license
 **WTFPL**
